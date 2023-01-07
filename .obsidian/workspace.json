@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "3648a6ffd0c53a74",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af993b2c1b00ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad0142fc5aae9126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Infrastructure/Exam Prep/Modules 1 - 2 (Introduction).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0cc86eadfe17c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e4a15227f2737d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2df6cb2fd3c5520",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f61245267eb6137",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "694bdf2d4c167da7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "feb7060ca5be78ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d589a095ed0e132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21873aad667cc9f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Network Infrastructure/Exam Prep/Modules 1 - 2 (Introduction).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9efb1f6e4dc049bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Network Infrastructure/Exam Prep/Modules 1 - 2 (Introduction).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cea0aecb6e4c9c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f36293150337214",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network Infrastructure/Exam Prep/Modules 1 - 2 (Introduction).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "a2df6cb2fd3c5520",
+  "lastOpenFiles": [
+    "Network Infrastructure/Exam Prep/Modules 5 - 6 (Networking Protocols).md",
+    "Network Infrastructure/Exam Prep/Modules 7 - 8 (Connectivity & ARP).md",
+    "Network Infrastructure/Exam Prep/Modules 9 - 10 (Transport Layer & Network Services).md",
+    "Network Infrastructure/Network Infrastructure.md",
+    "Network Infrastructure/Exam Prep/Modules 3 - 4 (Windows & Linux).md",
+    "Network Infrastructure/Exam Prep/Modules 1 - 2 (Introduction).md",
+    "Network Infrastructure/Essential Knowledge/Network Devices.md",
+    "IT Governance (Summary done)/Exam Prep/Business Case.md",
+    "Cryptography/Crypto Intro/Encryption.md",
+    "Cryptography/Diffie Hellman Key Exchange/Diffie Hellman Key Exchange.md"
+  ]
+}
